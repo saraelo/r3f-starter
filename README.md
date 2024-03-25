@@ -1,6 +1,6 @@
 # r3f-starter
 
-This repository serves as a starter kit for react-three-fiber (r3f) projects, enabling rapid setup and development of 3D web applications using React and Three.js.
+This repository serves as a starter for react-three-fiber (r3f) projects, enabling rapid setup and development of 3D web applications using React and Three.js.
 
 ## Prerequisites
 
@@ -28,9 +28,9 @@ To get started with the r3f-starter, follow these steps:
 
 2. Navigate to the repository folder:
 
-   ```
+```
    cd r3f-starter
-   ```
+```
 
 3. Install the dependencies using Yarn:
 
