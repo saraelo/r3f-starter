@@ -1,6 +1,8 @@
 import { OrbitControls } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 
+import { Experience } from "./components/Experience";
+
 function App() {
   return (
     <Canvas
@@ -9,10 +11,8 @@ function App() {
       }}
     >
       <OrbitControls />
-      <mesh>
-        <boxGeometry />
-        <meshNormalMaterial />
-      </mesh>
+
+      <Experience />
     </Canvas>
   );
 }
