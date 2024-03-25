@@ -23,19 +23,19 @@ To get started with the r3f-starter, follow these steps:
 1. Clone this repository:
 
 ```
-   git clone https://github.com/saraelo/r3f-starter.git
+git clone https://github.com/saraelo/r3f-starter.git
 ```
 
 2. Navigate to the repository folder:
 
 ```
-   cd r3f-starter
+cd r3f-starter
 ```
 
 3. Install the dependencies using Yarn:
 
 ```
-   yarn install
+yarn install
 ```
 
 ## Development
