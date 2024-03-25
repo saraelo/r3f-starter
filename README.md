@@ -28,8 +28,8 @@ To get started with the r3f-starter, follow these steps:
 
 2. Navigate to the repository folder:
 
-   ```cd r3f-starter
-
+   ```
+   cd r3f-starter
    ```
 
 3. Install the dependencies using Yarn:
@@ -44,7 +44,6 @@ To start the development server, run:
 
 ```
 yarn dev
-
 ```
 
 This will spin up the server, typically accessible at `http://localhost:5173`.
