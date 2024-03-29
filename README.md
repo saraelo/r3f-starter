@@ -46,7 +46,7 @@ To start the development server, run:
 yarn dev
 ```
 
-This will spin up the server, typically accessible at `http://localhost:5173`.
+This will spin up the server, typically accessible at `http://localhost:5173`
 
 ## Building Your Project
 
